@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 -  Eu me chamo [Isabelle Becker](https://www.linkedin.com/in/isabellebecker/);
 - 💜 - Atualmente sou Tech Recruiter na [DQR TECH](https://www.linkedin.com/company/dqr-tech/);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 🦄 - Somos uma consultoria de outsourcing de profissionais que contrata os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: Angular + JavaScript + TypeScript;
 - - **Backend**: .Net + Java + NodeJS;
